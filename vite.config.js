@@ -8,5 +8,5 @@ export default defineConfig({
     vue(),
     tailwindcss()
   ],
-  publicPath: ''
+  publicPath: 'https://github.com/Omarhes3e9ee/azkar-app.git'
 })
